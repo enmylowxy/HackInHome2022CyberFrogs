@@ -1,0 +1,26 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>Авторизация</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="css2.css">
+</head>
+<body>
+<div>
+<img src = "StudyStankin.png" width=”45%” height="25%"></img>
+	<h1>Авторизуйтесь через Логин/Пароль</h1>
+	<form>
+	<label for="text"></label>
+	<input id="text" name="login" type="text">
+	
+	<p>
+	<label for="pass"></label>
+	<input id="pass" name="login" type="password">
+	</p>
+	<p><a href="верстка первая страница.html"><img src="кнопочка.png" width="300"
+height="500" alt="Пример"></a></p>
+	
+	</form>
+</div>
+</body>
+</html>
