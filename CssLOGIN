@@ -1,0 +1,36 @@
+.divdiv{
+height:100%;
+width:100%;
+background: url(Phon.png);
+background-size: 100%
+}
+.divcentr{
+	height: 70%;
+	top: 20%;
+	left: 20%;
+                                    
+    width:90%;
+    z-index: 6;
+    margin: 0 auto;
+	position:absolute;
+	left: 5%;
+  
+}
+.divblock1
+{
+	background: url(Block.png);
+	background-size:100%;
+	width: 45%;
+	height: 35%;
+	background-repeat:no-repeat;
+	float: left;
+}
+.divblock2
+{
+	background: url(Block.png);
+	background-size:100%;
+	width: 45%;
+	height: 35%;
+	background-repeat:no-repeat;
+	float: right;
+}
